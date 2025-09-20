@@ -11,8 +11,12 @@ Hello everyone! My name is Damika Sulakshana, IT undergraduate at University of 
 ![](https://github-readme-stats.vercel.app/api?username=Damikasulakshana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Damikasulakshana&theme=dark&hide_border=false)<br/>
 ![]([https://github-readme-stats.vercel.app/api/top-langs/?username=Damikasulakshana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Damikasulakshana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact))
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=damikasulakshana&show_icons=true&locale=en&layout=compact" alt="damikasulakshana" /></p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Damikasulakshana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
